@@ -1,0 +1,6 @@
+DB_HOST=localhost
+DB_USER=bunyoro_user
+DB_PASSWORD=bunyoro_password
+DB_NAME=bunyoro_music_db
+PORT=5000
+JWT_SECRET=your_super_secret_jwt_key_here
